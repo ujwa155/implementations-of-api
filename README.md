@@ -1,1 +1,2 @@
-# implementations-of-api using python.how api work in real life.its all about how otp work
+its all about how otp can send through api.how api actually work in real life
+
